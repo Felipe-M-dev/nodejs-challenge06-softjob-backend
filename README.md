@@ -76,3 +76,5 @@ c. Reportar por la terminal las consultas recibidas en el servidor</br>
 5. Encriptar las contraseñas al momento de registrar nuevos usuarios __(3 puntos)__
 
 😊 ¡Mucho éxito!
+
+FRONT Repository: https://github.com/Felipe-M-dev/nodejs-challenge06-softjob-front
